@@ -1,6 +1,6 @@
-# InfraSolutions
+# VenuOps
 
-**Practical tools for infrastructure operations.**
+**Practical tools for IT operations.**
 
 Created by **Venugopala Rao.P** · **+91 9908987878**
 
@@ -30,4 +30,4 @@ Only public distributable editions and their documentation are listed here. Owne
 
 ---
 
-**InfraSolutions · Venugopala Rao.P · +91 9908987878**
+**VenuOps · Venugopala Rao.P · +91 9908987878**
