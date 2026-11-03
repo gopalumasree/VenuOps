@@ -6,11 +6,19 @@ Created by **Venugopala Rao.P** · **+91 9908987878**
 
 One place to find our public tools, current downloads and short user guides.
 
+## Featured: agentless Windows patching over RDP
+
+**Updates Management Tool (UMT)** patches Windows through existing RDP access without WinRM or endpoint PowerShell. Manage Linux updates over SSH from the same portable Windows application, with reviewed deployment, device troubleshooting and local reports. No permanent UMT endpoint agent is required.
+
+**[Explore UMT: how it works, requirements and downloads](https://venuops-umt.umasreey.chatgpt.site/)**
+
+RDP, drive redirection and temporary worker execution must be permitted. Windows RDP/MFA scheduling currently requires an open, unlocked UMT portal session. See the product page for validation scope and current limitations.
+
 ## Tools
 
 | Tool | Purpose | Latest version | Downloads and help |
 | --- | --- | --- | --- |
-| **Updates Management Tool (UMT)** | Scan, review and deploy Windows/Linux updates; troubleshoot devices; manage groups, schedules and reports. | **0.8.2 — Public Protected** | [Download](https://github.com/gopalumasree/Updates-Management-Tool/releases/latest) · [PDF guide](https://github.com/gopalumasree/Updates-Management-Tool/releases/download/v0.8.2/UMT-0.8.2-Visual-Use-Guide.pdf) · [Word guide](https://github.com/gopalumasree/Updates-Management-Tool/releases/download/v0.8.2/UMT-0.8.2-Visual-Use-Guide.docx) · [Tool page](https://github.com/gopalumasree/Updates-Management-Tool) |
+| **Updates Management Tool (UMT)** | Agentless Windows patching over RDP and Linux patching over SSH; review, troubleshoot and report. | **0.8.2 — Public Protected** | [Download](https://github.com/gopalumasree/Updates-Management-Tool/releases/latest) · [PDF guide](https://github.com/gopalumasree/Updates-Management-Tool/releases/download/v0.8.2/UMT-0.8.2-Visual-Use-Guide.pdf) · [Word guide](https://github.com/gopalumasree/Updates-Management-Tool/releases/download/v0.8.2/UMT-0.8.2-Visual-Use-Guide.docx) · [Tool page](https://github.com/gopalumasree/Updates-Management-Tool) |
 
 ## Start here
 
