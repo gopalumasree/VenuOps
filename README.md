@@ -10,7 +10,7 @@ One place to find our public tools, current downloads and short user guides.
 
 **Updates Management Tool (UMT)** patches Windows through existing RDP access without WinRM or endpoint PowerShell. Manage Linux updates over SSH from the same portable Windows application, with reviewed deployment, device troubleshooting and local reports. No permanent UMT endpoint agent is required.
 
-**[Explore UMT: how it works, requirements and downloads](https://venuops-umt.umasreey.chatgpt.site/)**
+**[Explore UMT: how it works, requirements and downloads](https://gopalumasree.github.io/Updates-Management-Tool/)**
 
 RDP, drive redirection and temporary worker execution must be permitted. Windows RDP/MFA scheduling currently requires an open, unlocked UMT portal session. See the product page for validation scope and current limitations.
 
